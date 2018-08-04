@@ -6,10 +6,8 @@
 * 官方文档：《[PHP_CodeSniffer Wiki](https://github.com/squizlabs/PHP_CodeSniffer/wiki)》
 * 规则细节：请参考 [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 项目 [src/Standards](https://github.com/squizlabs/PHP_CodeSniffer/tree/master/src/Standards) 目录下的源码
 
-## TODO
+## Maybe
 
-* [ ] 测试文件 `Example.php` 和测试文件夹 `example/*`
-* [ ] 说明文件 `README.md` 优化
-* [ ] 规则文件 `ruleset.xml`
-    * [ ] 关键部分翻译或解释
-    * [ ] 再整理
+* 测试文件 `Example.php` 和测试文件夹 `example/*`
+* 说明文件 `README.md` 优化
+* 规则文件 `ruleset.xml` 关键部分补充翻译解释
